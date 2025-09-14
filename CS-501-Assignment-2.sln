@@ -1,13 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI-Calculator", "WinFormsApp1\BMI-Calculator.csproj", "{56190171-DE79-4AA1-AA05-0BAD1785B6D8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator-App", "Calculator-App\Calculator-App.csproj", "{86BDECF6-3295-4A00-9953-D379B63D2D0A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip-Calculator", "Tip-Calculator\Tip-Calculator.csproj", "{2F2E28FC-A2CE-4AE4-8D84-93415A3D898C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatinTranslator-Textbook-PP1", "LatinTranslator-Textbook-PP1\LatinTranslator-Textbook-PP1.csproj", "{35715E9D-7E06-40B5-8A20-083828A9ECD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JokeAndPunchline-Textbook-PP4", "JokeAndPunchline-Textbook-PP4\JokeAndPunchline-Textbook-PP4.csproj", "{4C44B646-64A5-4892-BF18-1FE37B7C06E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeadsOrTails-Textbook-PP5", "HeadsOrTails-Textbook-PP5\HeadsOrTails-Textbook-PP5.csproj", "{3FA30415-423F-48E8-B966-5898E5EAEFCF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{2F2E28FC-A2CE-4AE4-8D84-93415A3D898C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F2E28FC-A2CE-4AE4-8D84-93415A3D898C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F2E28FC-A2CE-4AE4-8D84-93415A3D898C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35715E9D-7E06-40B5-8A20-083828A9ECD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35715E9D-7E06-40B5-8A20-083828A9ECD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35715E9D-7E06-40B5-8A20-083828A9ECD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35715E9D-7E06-40B5-8A20-083828A9ECD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C44B646-64A5-4892-BF18-1FE37B7C06E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C44B646-64A5-4892-BF18-1FE37B7C06E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C44B646-64A5-4892-BF18-1FE37B7C06E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C44B646-64A5-4892-BF18-1FE37B7C06E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FA30415-423F-48E8-B966-5898E5EAEFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA30415-423F-48E8-B966-5898E5EAEFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA30415-423F-48E8-B966-5898E5EAEFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA30415-423F-48E8-B966-5898E5EAEFCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
